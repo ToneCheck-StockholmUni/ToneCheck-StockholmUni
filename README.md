@@ -26,26 +26,16 @@ Our study focuses only on **public communication** that GitHub users have volunt
 
 ## 📬 Contact
 
-
-<table style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%; margin-top: 10px;">
-  <tr style="border: none;">
-    <td style="vertical-align: top; padding-right: 20px; width: 900px; border: none; border-top: none; border-bottom: none;">
-
-If you have any questions, please reach out via our project email:
-
-📧 [communication-study-github@iies.su.se](mailto:communication-study-github@iies.su.se)
+If you have any questions, please reach out via our project email: 📧 [communication-study-github@iies.su.se](mailto:communication-study-github@iies.su.se)
 
 Or directly:
-      <ul>
-        <li style="margin-bottom: 8px;"><a href="https://sites.google.com/view/huentat/home">Huen Tat Au-Yeung</a> — @huentat <a href="https://www.su.se/english/profiles/huau1432-1.511717">University Profile</a></li>
-        <li style="margin-bottom: 8px;"><a href="https://jinciliu.github.io/">Jinci Liu</a> — @jinciliu <a href="https://www.su.se/english/profiles/jili4163-1.511497">University Profile</a></li>
-      </ul>
-    </td>
-    <td style="vertical-align: bottom; width: 300px; text-align: right; border: none; border-top: none; border-bottom: none;">
-      <img src="https://www.shorttermprograms.com/images/cache/600_by_314/uploads/institution-logos/stockholm-university.png" alt="University Logo" style="max-width: 300px; display: block; margin-left: auto;">
-    </td>
-  </tr>
-</table>
+
+
+- Huen Tat Au-Yeung  <a href="https://github.com/huentat" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="16" style="vertical-align: text-bottom; margin-right: 6px;"></a>
+  <a href="https://www.su.se/english/profiles/huau1432-1.511717" title="University Profile"><img src="https://img.icons8.com/ios-filled/16/000000/university.png" alt="University Profile" style="vertical-align: text-bottom;"></a>
+
+- Jinci Liu <a href="https://github.com/jinciliu" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="16" style="vertical-align: text-bottom; margin-right: 6px;"></a>
+  <a href="https://www.su.se/english/profiles/jili4163-1.511497" title="University Profile"><img src="https://img.icons8.com/ios-filled/16/000000/university.png" alt="University Profile" style="vertical-align: text-bottom;"></a>
 ---
 
-✦ Thank you for contributing to GitHub and helping to make collaboration smoother and more inclusive for everyone!
+🤝 Thanks for contributing to GitHub and helping improve collaboration for everyone!
